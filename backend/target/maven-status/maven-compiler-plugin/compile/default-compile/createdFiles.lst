@@ -1,0 +1,3 @@
+com\enterpriserisk\SecurityConfig.class
+com\enterpriserisk\EnterpriseRiskApiApplication.class
+com\enterpriserisk\RiskController.class
